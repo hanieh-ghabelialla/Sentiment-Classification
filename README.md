@@ -4,7 +4,7 @@ This repository contains the files and code for an NLP project focused on sentim
 
 ## Files in the Repository
 
-- `sentiment classification.ipynb`: Another Jupyter notebook version of the project.
+- `sentiment classification.ipynb`: main file
 - `train.classes.txt`: File containing the class labels for the training data.
 - `train.docs.txt`: File containing the training documents.
 - `test.classes.txt`: File containing the class labels for the test data.
